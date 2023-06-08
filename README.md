@@ -9,9 +9,9 @@ ___
   As a Multi-Business Manager turned Full Stack Developer, my experience highlights my people-first thinking and quick adaptation. I thrive when working in a team environment and considering the user’s experience. I'm always looking for opportunities to implement, troubleshoot, and improve.
 </p>
 ___
-<h3 align= center>
+<h2 align= center>
   Other Interests:
-</h3>
+</h2>
 <ul>
   <li>Music: I play Sax, Flute, Guitar, Piano, and Bass. Two of my recent projects are <a href="https://dearother.bandcamp.com/album/the-wizard-clip">Wizard Clip</a> and <a href="https://harrisonlemke.com/album/forever-only-idaho">Forever Only Idaho</a></li>
   <li>Home Brewing: I've been brewing my own beer since 2020. My two favorite beers I've made are a Milk Stout and a Weizenbock</li>
