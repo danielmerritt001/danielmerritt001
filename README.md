@@ -1,6 +1,8 @@
 ![me-sittin-on-stage](https://github.com/danielmerritt001/danielmerritt001/assets/121991938/c4bc4668-94d7-4ad2-810f-a4bbd335c4be)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmerritt001)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmerritt001&hide=stars,contribs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmerritt001&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **danielmerritt001/danielmerritt001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
