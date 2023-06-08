@@ -1,4 +1,5 @@
-![HOME BREW](https://github.com/danielmerritt001/danielmerritt001/assets/121991938/0b9a7a41-997b-4deb-878c-e1cffc04c487)
+![me-sittin-on-stage](https://github.com/danielmerritt001/danielmerritt001/assets/121991938/c4bc4668-94d7-4ad2-810f-a4bbd335c4be)
+
 <!--
 **danielmerritt001/danielmerritt001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 
