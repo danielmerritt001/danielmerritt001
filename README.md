@@ -8,7 +8,6 @@ ___
 <p align= center>
   As a Multi-Business Manager turned Full Stack Developer, my experience highlights my people-first thinking and quick adaptation. I thrive when working in a team environment and considering the user’s experience. I'm always looking for opportunities to implement, troubleshoot, and improve.
 </p>
-___
 <h2 align= center>
   Other Interests:
 </h2>
